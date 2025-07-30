@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<h1>My Name is Lachlan</h1>
+I am a 2nd year Computer Science Student at Curtin University. 
 <!--
 **Bionic535/Bionic535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
