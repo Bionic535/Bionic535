@@ -4,12 +4,12 @@ I am a 2nd year Computer Science Student at Curtin University.
 
 ---
 
-###🔭 I’m currently working on ...###
+🔭 ###I’m currently working on ...###
 
 
 ---
 
-###🌱 I’m currently learning ...###
+🌱 ###I’m currently learning ...###
 <!--
 **Bionic535/Bionic535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
