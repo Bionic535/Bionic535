@@ -1,6 +1,6 @@
 # Hi there 👋 My Name is Lachlan #
 I am a 2nd year Computer Science Student at Curtin University. 
-
+<br/>
 ---
 
 ### 🧰 Languages and Tools
@@ -12,11 +12,17 @@ I am a 2nd year Computer Science Student at Curtin University.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+<br/>
+
 
 ---
 
-### 🔭 I’m currently working on ...
+### 📄 Projects
+[![Movieaisite Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Bionic535/movieaisite)
+---
 
+### 🔭 I’m currently working on ...
+[![NewsBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Bionic535/NewsBuddy)
 
 ---
 
@@ -24,8 +30,11 @@ I am a 2nd year Computer Science Student at Curtin University.
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+<br/>
 
+---
 
+[![Bionic535's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bionic535)](https://github.com/Bionic535/github-readme-stats)
 <!--
 **Bionic535/Bionic535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
