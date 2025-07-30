@@ -18,11 +18,13 @@ I am a 2nd year Computer Science Student at Curtin University.
 ---
 
 ### 📄 Projects
-[![Movieaisite Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Bionic535/movieaisite)
+[![Movieaisite Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=movieaisite)](https://github.com/Bionic535/movieaisite)
+<br/>
 ---
 
 ### 🔭 I’m currently working on ...
-[![NewsBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Bionic535/NewsBuddy)
+[![NewsBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=NewsBuddy)](https://github.com/Bionic535/NewsBuddy)
+<br/>
 
 ---
 
