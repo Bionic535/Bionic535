@@ -20,6 +20,8 @@ I am a 2nd year Computer Science Student at Curtin University.
 ### 📄 Projects
 [![Movieaisite Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=movieaisite)](https://github.com/Bionic535/movieaisite)
 <br/>
+[![NewsBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=NewsBuddy)](https://github.com/Bionic535/NewsBuddy)
+<br/>
 
 
 ---
