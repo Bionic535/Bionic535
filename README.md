@@ -27,13 +27,13 @@ I am a 2nd year Computer Science Student at Curtin University.
 ---
 
 ### 🔭 I’m currently working on ...
-[![NewsBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=NewsBuddy)](https://github.com/Bionic535/NewsBuddy)
+[![PokeStats](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=PokeStats)](https://github.com/Bionic535/PokeStats)
 <br/>
 
 ---
 
 ### 🌳 This Project Won Me the EcoPulse Hackathon ...
-[![NewsBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=Ecopulse-Hackathon-Submission)](https://github.com/Bionic535/Ecopulse-Hackathon-Submission)
+[![EcoPulse Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=Ecopulse-Hackathon-Submission)](https://github.com/Bionic535/Ecopulse-Hackathon-Submission)
 <br/>
 
 ---
