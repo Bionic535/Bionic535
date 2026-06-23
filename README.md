@@ -1,5 +1,5 @@
 # Hi there 👋 My Name is Lachlan #
-I am a 2nd year Computer Science Student at Curtin University. 
+I am a 3rd year Computer Science Student at Curtin University. 
 <br/>
 ---
 
@@ -34,14 +34,6 @@ I am a 2nd year Computer Science Student at Curtin University.
 
 ### 🌳 This Project Won Me the EcoPulse Hackathon ...
 [![EcoPulse Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=Ecopulse-Hackathon-Submission)](https://github.com/Bionic535/Ecopulse-Hackathon-Submission)
-<br/>
-
----
-
-### 🌱 I’m currently learning ...
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 <br/>
 
 ---
