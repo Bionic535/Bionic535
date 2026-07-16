@@ -14,9 +14,6 @@ I am a 3rd year Computer Science Student at Curtin University.
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 <br/>
 
----
-
-[![Bionic535's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bionic535)](https://github.com/Bionic535/github-readme-stats)
 <!--
 **Bionic535/Bionic535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
