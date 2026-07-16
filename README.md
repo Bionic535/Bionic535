@@ -14,28 +14,6 @@ I am a 3rd year Computer Science Student at Curtin University.
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 <br/>
 
-
----
-
-### 📄 Projects
-[![Movieaisite Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=movieaisite)](https://github.com/Bionic535/movieaisite)
-<br/>
-[![NewsBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=NewsBuddy)](https://github.com/Bionic535/NewsBuddy)
-<br/>
-
-
----
-
-### 🔭 I’m currently working on ...
-[![PokeStats](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=PokeStats)](https://github.com/Bionic535/PokeStats)
-<br/>
-
----
-
-### 🌳 This Project Won Me the EcoPulse Hackathon ...
-[![EcoPulse Card](https://github-readme-stats.vercel.app/api/pin/?username=Bionic535&repo=Ecopulse-Hackathon-Submission)](https://github.com/Bionic535/Ecopulse-Hackathon-Submission)
-<br/>
-
 ---
 
 [![Bionic535's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bionic535)](https://github.com/Bionic535/github-readme-stats)
